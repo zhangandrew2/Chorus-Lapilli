@@ -1,3 +1,5 @@
+## Chorus Lapilli Project
+
 This project was built off of the game tic-tac-toe. Players take turns placing pieces on a 3×3 board and the goal is to get three pieces in a row. However, it differs from tic-tac-toe in two ways:
 
     - After your first three moves, instead of adding further pieces you must instead move one of your existing pieces to an 
