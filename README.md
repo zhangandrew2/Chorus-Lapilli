@@ -6,9 +6,6 @@ This project was built off of the game tic-tac-toe. Players take turns placing p
     - If you have three pieces on the board and one of your pieces is in the center square, you must either win or vacate
         the center square in your next move.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
